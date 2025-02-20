@@ -1,1 +1,1 @@
-String mapKey = "AIzaSyANeUGvoUv4DzZax1sNhm9XsYFEAQIWhwo";  
+String mapKey = "";  
